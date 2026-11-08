@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="12" viewBox="0 0 900 12">
+<defs><linearGradient id="d" x1="0" x2="1"><stop offset="0" stop-color="#3DF2FF" stop-opacity="0"/>
+<stop offset="0.5" stop-color="#3DF2FF"/><stop offset="1" stop-color="#3DF2FF" stop-opacity="0"/></linearGradient>
+<filter id="g"><feGaussianBlur stdDeviation="2"/></filter></defs>
+<line x1="0" y1="6" x2="900" y2="6" stroke="#F4FBFF" stroke-opacity="0.12" stroke-width="1"/>
+<rect x="-200" y="4.5" width="200" height="3" fill="url(#d)" filter="url(#g)">
+  <animate attributeName="x" values="-200;900" dur="3.5s" repeatCount="indefinite"/></rect>
+<rect x="-200" y="5.25" width="200" height="1.5" fill="url(#d)">
+  <animate attributeName="x" values="-200;900" dur="3.5s" repeatCount="indefinite"/></rect>
+</svg>

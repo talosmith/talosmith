@@ -39,7 +39,7 @@ I build the modern version: agents that act on their own, with data as the ichor
 
 | | Project | What it does | Stack |
 |:-:|---|---|---|
-| 📨 | **[hermes-agenda](https://github.com/talosmith/hermes-agenda)** | WhatsApp agent that books therapy sessions and sends reminders | Python · LLM agents · WhatsApp Cloud API |
+| 📨 | **[hermes-agenda](https://github.com/talosmith/hermes-agenda)** | AI WhatsApp receptionist for therapy practices: booking, reminders, crisis protocol | n8n · Gemini · Evolution API · Postgres |
 | ⚕️ | **[asclepius-triage](https://github.com/talosmith/asclepius-triage)** | RAG agent for medical triage | LangChain · vector DB · FastAPI |
 | 🔮 | **[delphi-ibov](https://github.com/talosmith/delphi-ibov)** | ML ensemble that forecasts the Ibovespa, with full backtesting | XGBoost · LightGBM · scikit-learn |
 | 🛠️ | **[talos-mcp](https://github.com/talosmith/talos-mcp)** | MCP server that gives AI agents real tools | Python · MCP |

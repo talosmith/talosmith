@@ -3,7 +3,7 @@
 <img src="./assets/header.svg" alt="talosmith — forging AI agents, RAG & automation" width="100%"/>
 
 <a href="https://github.com/talosmith">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=3DF2FF&center=true&vCenter=true&width=720&lines=%3E+forging+AI+agents+that+actually+do+things;%3E+RAG+%C2%B7+LLM+agents+%C2%B7+automation;%3E+MSc+AI%2C+Automation+%26+Digital+Agents+%40+Next+Madrid;%3E+ex-researcher+%40+CNPEM+(Sirius+%C2%B7+LNBR+%C2%B7+LNNano)" alt="typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=3DF2FF&center=true&vCenter=true&width=720&lines=%3E+forging+AI+agents+that+actually+do+things;%3E+RAG+%C2%B7+LLM+agents+%C2%B7+automation;%3E+MSc+AI%2C+Automation+%26+Digital+Agents+%40+Next+Madrid;%3E+alumni+%40+CNPEM+(Sirius+%C2%B7+LNBR+%C2%B7+LNNano)" alt="typing intro"/>
 </a>
 
 <img src="./assets/divider.svg" width="100%"/>
